@@ -16,8 +16,8 @@ Usage:
 * Install [gradle](http://gradle.org)
 * Run `gradle run OPTIONS` where Options are
   * `-DconfigFile="CONFIG"` (seea CONFIG above)
-  * `-Dtype="(Link|Abstract)" (see TYPE above)
-  * `-DoutFile="OUT" (see OUT above)
+  * `-Dtype="(Link|Abstract)"` (see TYPE above)
+  * `-DoutFile="OUT"` (see OUT above)
 
 e.g.
 
