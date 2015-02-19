@@ -1,0 +1,17 @@
+apply plugin: 'java'
+apply plugin:'application'
+version = 1.0
+sourceCompatibility = 1.5
+repositories {
+    mavenCentral()
+}
+dependencies {
+    // compile 'commons-io:commons-io:2.4'
+    compile 'org.apache.jena:apache-jena-libs:2.12.1'
+    compile 'org.knallgrau.utils:textcat:1.0.1'
+}
+mainClassName = "de.unima.ki.infolis.tagging.Tagging"
+run {
+    args System.getProperty("configFile"), System.getProperty("type"), System.getProperty("outFile")
+}
+// vim: ft=groovy:
