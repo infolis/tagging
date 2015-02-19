@@ -1,0 +1,529 @@
+|urn:nbn:de:0168-ssoar-114614|Publication|URN|International Social Survey Programme: Family and Changing Gender Roles I - ISSP 1988|ISSP 1988|10.4232/1.1700|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-114068|Publication|URN|Eurobarometer 55.1 (2001)|Eurobarometer 55.1|10.4232/1.10941|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-114068|Publication|URN|Eurobarometer 55.1 (2001)|Eurobarometer 55.1|10.4232/1.3507|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-112244|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 1984-1997|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-112244|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 1984-1997|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-112244|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1984-1997|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-112244|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1984-1997|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-112244|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1984-1997|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-112244|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1984-1997|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-112244|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 1984-1997|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-112244|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 1984-1997|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-265198|Publication|URN|Deutscher Alterssurvey (SUF DEAS) 1996|Alterssurvey 1996|10.5156/DEAS.1996.M.001|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-265198|Publication|URN|Alters-Survey - Lebenszusammenhänge, Selbst- und Lebenskonzeptionen (Deutscher Alterssurvey, 1. Welle 1996)|Alterssurvey 1996|10.4232/1.3264|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-114911|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 1994|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-114911|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 1994|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-114911|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1994|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-114911|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1994|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-114911|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1994|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-114911|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 1994|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-114911|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 1994|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-114911|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1994|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-309107|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 2008|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-309107|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 2008|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-309107|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2008|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-309107|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2008|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-309107|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2008|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-309107|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2008|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-309107|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 2008|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125218|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 1984-1997|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125218|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 1984-1997|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125218|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1984-1997|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125218|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1984-1997|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125218|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1984-1997|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125218|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1984-1997|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125218|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 1984-1997|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125218|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 1984-1997|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-112244|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 2000|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-112244|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 2000|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-112244|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2000|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-112244|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2000|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-112244|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2000|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-112244|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 2000|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-112244|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 2000|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-112244|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2000|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-236156|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010|kumulierter ALLBUS 1980-1996|10.4232/1.11379|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-236156|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2008|kumulierter ALLBUS 1980-1996|10.4232/1.10080|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-236156|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2006|kumulierter ALLBUS 1980-1996|10.4232/1.4241|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-236156|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010|kumulierter ALLBUS 1980-1996|10.4232/1.11486|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-114911|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 1997|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-114911|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 1997|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-114911|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1997|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-114911|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1997|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-114911|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1997|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-114911|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1997|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-114911|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 1997|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-114911|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 1997|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-219108|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 2007|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-219108|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 2007|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-219108|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2007|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-219108|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2007|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-219108|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2007|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-219108|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 2007|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-219108|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 2007|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-219108|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2007|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-113493|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 1984|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-113493|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 1984|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-113493|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1984|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-113493|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1984|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-113493|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1984|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-113493|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1984|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-113493|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 1984|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-113493|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 1984|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-237358|Publication|URN|Studiensituation und studentische Orientierungen 2003/04 (Studierenden-Survey)|Studierendensurvey 2003/04|10.4232/1.4344|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-110975|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|Sozioökonomisches Panel 2001|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-110975|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|Sozioökonomisches Panel 2001|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-110975|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozioökonomisches Panel 2001|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-110975|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozioökonomisches Panel 2001|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-110975|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozioökonomisches Panel 2001|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-110975|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozioökonomisches Panel 2001|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-110975|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|Sozioökonomisches Panel 2001|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-110975|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|Sozioökonomisches Panel 2001|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-116483|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1998|ALLBUS 1998|10.4232/1.3000|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-116483|Publication|URN|German General Social Survey - ALLBUS 1998|ALLBUS 1998|10.4232/1.3753|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-116483|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1998|ALLBUS 1998|10.4232/1.11362|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-259511|Publication|URN|Repräsentativbefragung Ausgewählte Migrantengruppen in Deutschland (RAM 2006/2007)|RAM 2006/2007|10.4232/1.11517|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-192917|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 2003|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-192917|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 2003|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-192917|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2003|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-192917|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2003|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-192917|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2003|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-192917|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 2003|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-192917|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 2003|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-192917|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2003|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125252|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 2000|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125252|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 2000|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125252|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2000|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125252|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2000|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125252|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2000|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125252|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 2000|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125252|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 2000|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125252|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2000|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-116690|Publication|URN|Wohlfahrtssurvey 1993|Wohlfahrtssurvey 1993|10.4232/1.2792|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125199|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 1997|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125199|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 1997|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125199|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1997|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125199|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1997|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125199|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1997|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125199|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1997|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125199|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 1997|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125199|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 1997|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-128560|Publication|URN|Eurobarometer 44.0 (1995)|Eurobarometer 44.0|10.4232/1.10916|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-110975|Publication|URN|Deutscher Alterssurvey (SUF DEAS) 2002|Deutscher Alterssurvey 2002|10.5156/DEAS.2002.M.001|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-112883|Publication|URN|Wohlfahrtssurvey 1998|Wohlfahrtssurvey 1998|10.4232/1.3398|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-111695|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 2000|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-111695|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 2000|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-111695|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2000|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-111695|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2000|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-111695|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2000|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-111695|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 2000|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-111695|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 2000|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-111695|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2000|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-236517|Publication|URN|Studiensituation und studentische Orientierungen 2003/04 (Studierenden-Survey)|Studierendensurvey 2003/04|10.4232/1.4344|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-128996|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 1994|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-128996|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 1994|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-128996|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1994|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-128996|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1994|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-128996|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1994|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-128996|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 1994|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-128996|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 1994|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-128996|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1994|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-113295|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 1997|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-113295|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 1997|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-113295|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1997|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-113295|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1997|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-113295|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1997|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-113295|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1997|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-113295|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 1997|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-113295|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 1997|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-265198|Publication|URN|European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)|EVS 1998|10.4232/1.4804|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-265198|Publication|URN|European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)|EVS 1998|10.4232/1.11005|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-236156|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1996|ALLBUS 1996|10.4232/1.2800|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-236156|Publication|URN|German General Social Survey - ALLBUS 1996|ALLBUS 1996|10.4232/1.3751|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-265198|Publication|URN|Freiwilligensurvey 2004|Freiwilligensurvey 2004|10.4232/1.4331|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-236500|Publication|URN|Studiensituation und studentische Orientierungen 2003/04 (Studierenden-Survey)|Studierendensurvey 2003/04|10.4232/1.4344|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-264978|Publication|URN|Alterssicherung in Deutschland 2003 (ASID ´03)|Alterssicherung in Deutschland 2003|10.4232/1.4874|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-265292|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP Welle 2002|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-265292|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP Welle 2002|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-265292|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP Welle 2002|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-265292|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP Welle 2002|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-265292|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP Welle 2002|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-265292|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP Welle 2002|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-265198|Publication|URN|European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)|EVS 2003|10.4232/1.4804|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-265198|Publication|URN|European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)|EVS 2003|10.4232/1.11005|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-116631|Publication|URN|Wohlfahrtssurvey 1998|Wohlfahrtssurvey 1998|10.4232/1.3398|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125199|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 1994|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125199|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 1994|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125199|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1994|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125199|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1994|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125199|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1994|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125199|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 1994|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125199|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 1994|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-125199|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1994|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-37900|Publication|URN|Flash Eurobarometer 112 (Internet and the Public at large 4)|Flash Eurobarometer 112|10.4232/1.3601|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-58022|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1992|ALLBUS 1992|10.4232/1.2140|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-59179|Publication|URN|Eurobarometer 64.2 (2005)|Eurobarometer  2005|10.4232/1.10970|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-59179|Publication|URN|Eurobarometer 64.2 (2005)|Eurobarometer  2005|10.4232/1.4414|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-57497|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|Sozio- ökonomisches Panel 1984-94|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-57497|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|Sozio- ökonomisches Panel 1984-94|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-57497|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio- ökonomisches Panel 1984-94|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-57497|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio- ökonomisches Panel 1984-94|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-57497|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio- ökonomisches Panel 1984-94|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-57497|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|Sozio- ökonomisches Panel 1984-94|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-57497|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|Sozio- ökonomisches Panel 1984-94|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-57497|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio- ökonomisches Panel 1984-94|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-207849|Publication|URN|German General Social Survey - ALLBUS - Cumulation 1980-2006|ALLBUS 1980-2000|10.4232/1.4243|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-207849|Publication|URN|German General Social Survey - ALLBUS - Cumulation 1980-2008|ALLBUS 1980-2000|10.4232/1.11000|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-207849|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010|ALLBUS 1980-2000|10.4232/1.11379|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-207849|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010|ALLBUS 1980-2000|10.4232/1.11486|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-207849|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2006|ALLBUS 1980-2000|10.4232/1.4241|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-207849|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2008|ALLBUS 1980-2000|10.4232/1.10080|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-208245|Publication|URN|Eurobarometer 37.0+37.1 (1992)|Eurobarometer 1992|10.4232/1.10900|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-208245|Publication|URN|Eurobarometer 38.0 (1992)|Eurobarometer 1992|10.4232/1.10903|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-208245|Publication|URN|Eurobarometer 38.0 (1992)|Eurobarometer 1992|10.4232/1.2294|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-208245|Publication|URN|Eurobarometer 37.2 (1992)|Eurobarometer 1992|10.4232/1.2242|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-208245|Publication|URN|Eurobarometer 37.1 (1992)|Eurobarometer 1992|10.4232/1.10901|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-208245|Publication|URN|Eurobarometer 37.0+37.1 (1992)|Eurobarometer 1992|10.4232/1.2243|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-208245|Publication|URN|Eurobarometer 38.1 (1992)|Eurobarometer 1992|10.4232/1.10904|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-208245|Publication|URN|Eurobarometer 38.1 (1992)|Eurobarometer 1992|10.4232/1.2295|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-208245|Publication|URN|Eurobarometer 37.2 (1992)|Eurobarometer 1992|10.4232/1.10902|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-208245|Publication|URN|Eurobarometer 37.1 (1992)|Eurobarometer 1992|10.4232/1.2241|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-208245|Publication|URN|Eurobarometer 37.0 (1992)|Eurobarometer 1992|10.4232/1.10899|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-208245|Publication|URN|Eurobarometer 37.0 (1992)|Eurobarometer 1992|10.4232/1.2141|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-200284|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1996|ALLBUS 1996|10.4232/1.2800|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-199915|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1996|ALLBUS 1996|10.4232/1.2800|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-209034|Publication|URN|Wahlstudie 1990 (Panelstudie)|Wahlstudie 1990|10.4232/1.1919|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-200345|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1994|ALLBUS 1994|10.4232/1.2400|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-204448|Publication|URN|DJI-Jugendsurvey 1992 und 1997 (Kumulierter Datensatz)|DJI-Jugendsurvey 1992, 1997|10.4232/1.3608|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-200506|Publication|URN|Eurobarometer 41.0 (1994)|EUROBAROMETER 41.0|10.4232/1.2490|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-200506|Publication|URN|Eurobarometer 41.0 (1994)|EUROBAROMETER 41.0|10.4232/1.10909|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-126673|Publication|URN|Repräsentativbefragung Ausgewählte Migrantengruppen in Deutschland (RAM 2006/2007)|RAM 2006/2007|10.4232/1.11517|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-207849|Publication|URN|German General Social Survey - ALLBUS - Cumulation 1980-2006|ALLBUS 1984-1990|10.4232/1.4243|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-207849|Publication|URN|German General Social Survey - ALLBUS - Cumulation 1980-2008|ALLBUS 1984-1990|10.4232/1.11000|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-207849|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010|ALLBUS 1984-1990|10.4232/1.11379|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-207849|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010|ALLBUS 1984-1990|10.4232/1.11486|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-207849|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2006|ALLBUS 1984-1990|10.4232/1.4241|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-207849|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2008|ALLBUS 1984-1990|10.4232/1.10080|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-199142|Publication|URN|IKG-Jugendpanel 2001-2005 (Integration, Interaktion sowie die Entwicklung von Feindbildern und Gewaltbereitschaft bei Jugendlichen)|IKG-Jugendpanel 2001|10.4232/1.4493|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-209024|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|Sozio-ökonomisches Panel 1992|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-209024|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|Sozio-ökonomisches Panel 1992|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-209024|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio-ökonomisches Panel 1992|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-209024|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio-ökonomisches Panel 1992|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-209024|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio-ökonomisches Panel 1992|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-209024|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio-ökonomisches Panel 1992|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-209024|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|Sozio-ökonomisches Panel 1992|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-209024|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|Sozio-ökonomisches Panel 1992|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-164059|Publication|URN|DJI-Jugendsurvey 1992, 1997 und 2003 (Kumulation)|DJI-Jugendsurvey 1992, 1997 und 2003|10.4232/1.5189|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-208119|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|Sozio-oekonomisches Panel 1996|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-208119|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|Sozio-oekonomisches Panel 1996|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-208119|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio-oekonomisches Panel 1996|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-208119|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio-oekonomisches Panel 1996|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-208119|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio-oekonomisches Panel 1996|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-208119|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio-oekonomisches Panel 1996|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-208119|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|Sozio-oekonomisches Panel 1996|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-208119|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|Sozio-oekonomisches Panel 1996|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-207472|Publication|URN|International Social Survey Programme 2004: Citizenship (ISSP 2004)|ISSP 2004|10.4232/1.10078|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-207472|Publication|URN|International Social Survey Programme: Citizenship - ISSP 2004|ISSP 2004|10.4232/1.11372|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-200049|Publication|URN|International Social Survey Programme: Social Relations and Support Systems / Social Networks II - ISSP 2001|ISSP 2001|10.4232/1.3680|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-202593|Publication|URN|Eurobarometer 31 (1989)|Eurobarometer 31|10.4232/1.1750|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213192|Publication|URN|German General Social Survey - ALLBUS - Cumulation 1980-2006|ALLBUS ‘80-‘96|10.4232/1.4243|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213192|Publication|URN|German General Social Survey - ALLBUS - Cumulation 1980-2008|ALLBUS ‘80-‘96|10.4232/1.11000|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213192|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010|ALLBUS ‘80-‘96|10.4232/1.11379|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213192|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010|ALLBUS ‘80-‘96|10.4232/1.11486|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213192|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2006|ALLBUS ‘80-‘96|10.4232/1.4241|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213192|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2008|ALLBUS ‘80-‘96|10.4232/1.10080|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213390|Publication|URN|Alters-Survey - Lebenszusammenhänge, Selbst- und Lebenskonzeptionen (Deutscher Alterssurvey, 1. Welle 1996)|Alters-Survey 1996|10.4232/1.3264|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216424|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2008|Allbus 2008|10.4232/1.4600|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216424|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2008|Allbus 2008|10.4232/1.10834|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216383|Publication|URN|German General Social Survey - ALLBUS - Cumulation 1980-2006|ALLBUS 1980-2006|10.4232/1.4243|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216383|Publication|URN|German General Social Survey - ALLBUS - Cumulation 1980-2008|ALLBUS 1980-2006|10.4232/1.11000|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216383|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2006|ALLBUS 1980-2006|10.4232/1.4241|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213326|Publication|URN|Wohlfahrtssurvey 1978|Wohlfahrtssurvey 1978|10.4232/1.1141|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213547|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 2000|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213547|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 2000|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213547|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2000|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213547|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2000|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213547|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2000|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213547|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 2000|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213547|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 2000|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213547|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2000|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-248230|Publication|URN|European and World Values Surveys Four-Wave Integrated Data File, 1981-2004|World Values Survey 1990-1993|10.4232/1.11159|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213349|Publication|URN|Wohlfahrtssurvey 1988|Wohlfahrtssurvey 1988|10.4232/1.1839|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213588|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 2000|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213588|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 2000|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213588|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2000|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213588|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2000|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213588|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2000|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213588|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 2000|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213588|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 2000|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213588|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2000|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213657|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 1984-1999|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213657|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 1984-1999|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213657|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1984-1999|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213657|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1984-1999|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213657|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1984-1999|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213657|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1984-1999|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213657|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 1984-1999|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213657|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 1984-1999|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216338|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010|kumulierter ALLBUS 1980-2004|10.4232/1.11379|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216338|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010|kumulierter ALLBUS 1980-2004|10.4232/1.11486|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216338|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2006|kumulierter ALLBUS 1980-2004|10.4232/1.4241|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216338|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2008|kumulierter ALLBUS 1980-2004|10.4232/1.10080|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216345|Publication|URN|International Social Survey Programme: Family and Changing Gender Roles I - ISSP 1988|International Social Survey Programme (ISSP) 1988|10.4232/1.1700|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216402|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 1994-2007|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216402|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 1994-2007|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216402|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1994-2007|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216402|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1994-2007|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216402|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1994-2007|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216402|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1994-2007|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216402|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 1994-2007|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216402|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 1994-2007|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216413|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 2008|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216413|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 2008|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216413|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2008|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216413|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2008|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216413|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2008|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216413|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2008|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216413|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 2008|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216383|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1996|ALLBUS 1996|10.4232/1.2800|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216383|Publication|URN|German General Social Survey - ALLBUS 1996|ALLBUS 1996|10.4232/1.3751|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216399|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 1994-2007|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216399|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 1994-2007|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216399|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1994-2007|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216399|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1994-2007|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216399|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1994-2007|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216399|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1994-2007|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216399|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 1994-2007|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216399|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 1994-2007|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213296|Publication|URN|Wohlfahrtssurvey 1998|Wohlfahrtssurvey 1998|10.4232/1.3398|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213336|Publication|URN|Wohlfahrtssurvey 1998|Wohlfahrtssurvey 1998|10.4232/1.3398|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213550|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010|ALLBUS 1980-2000|10.4232/1.11379|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213550|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2008|ALLBUS 1980-2000|10.4232/1.10080|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213550|Publication|URN|German General Social Survey - ALLBUS - Cumulation 1980-2008|ALLBUS 1980-2000|10.4232/1.11000|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213550|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010|ALLBUS 1980-2000|10.4232/1.11486|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213550|Publication|URN|German General Social Survey - ALLBUS - Cumulation 1980-2006|ALLBUS 1980-2000|10.4232/1.4243|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213550|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2006|ALLBUS 1980-2000|10.4232/1.4241|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216383|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010|ALLBUS 1994-2006|10.4232/1.11379|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216383|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2008|ALLBUS 1994-2006|10.4232/1.10080|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216383|Publication|URN|German General Social Survey - ALLBUS - Cumulation 1980-2008|ALLBUS 1994-2006|10.4232/1.11000|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216383|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010|ALLBUS 1994-2006|10.4232/1.11486|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216383|Publication|URN|German General Social Survey - ALLBUS - Cumulation 1980-2006|ALLBUS 1994-2006|10.4232/1.4243|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216383|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2006|ALLBUS 1994-2006|10.4232/1.4241|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213772|Publication|URN|Eurobarometer 60.1 (2003)|Eurobarometer 60.1|10.4232/1.10958|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213772|Publication|URN|Eurobarometer 60.1 (2003)|Eurobarometer 60.1|10.4232/1.3938|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216357|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010|ALLBUS 1982-2004|10.4232/1.11379|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216357|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2008|ALLBUS 1982-2004|10.4232/1.10080|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216357|Publication|URN|German General Social Survey - ALLBUS - Cumulation 1980-2008|ALLBUS 1982-2004|10.4232/1.11000|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216357|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010|ALLBUS 1982-2004|10.4232/1.11486|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216357|Publication|URN|German General Social Survey - ALLBUS - Cumulation 1980-2006|ALLBUS 1982-2004|10.4232/1.4243|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-216357|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2006|ALLBUS 1982-2004|10.4232/1.4241|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-266904|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 2005|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-266904|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 2005|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-266904|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2005|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-266904|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2005|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-266904|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2005|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-266904|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2005|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-266904|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 2005|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-266904|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 2005|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213309|Publication|URN|Wohlfahrtssurvey 1984|Wohlfahrtssurvey 1984|10.4232/1.1339|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-266880|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 2009|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-266880|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2009|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-266880|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2009|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-266880|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2009|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-266880|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2009|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-266880|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 2009|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213705|Publication|URN|International Social Survey Programme: Family and Changing Gender Roles I - ISSP 1988|ISSP 1988|10.4232/1.1700|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213317|Publication|URN|Wohlfahrtssurvey 1978|Wohlfahrtssurveys 1978|10.4232/1.1141|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213772|Publication|URN|Eurobarometer 62.1 (2004)|Eurobarometer 62|10.4232/1.10963|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213772|Publication|URN|Eurobarometer 62.1 (2004)|Eurobarometer 62|10.4232/1.4230|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213772|Publication|URN|Eurobarometer 62.0 (2004)|Eurobarometer 62|10.4232/1.4229|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213772|Publication|URN|Eurobarometer 62.2 (2004)|Eurobarometer 62|10.4232/1.4231|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213772|Publication|URN|Eurobarometer 62.2 (2004)|Eurobarometer 62|10.4232/1.10964|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213772|Publication|URN|Eurobarometer 62.0 (2004)|Eurobarometer 62|10.4232/1.10962|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213550|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1980|Allbus 1980|10.4232/1.1000|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213550|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1980 - Methodenstudie|Allbus 1980|10.4232/1.11002|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213949|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1996|ALLBUS 1996|10.4232/1.2800|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213949|Publication|URN|German General Social Survey - ALLBUS 1996|ALLBUS 1996|10.4232/1.3751|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213326|Publication|URN|Wohlfahrtssurvey 1993|Wohlfahrtssurvey 1993|10.4232/1.2792|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213550|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1980|ALLBUS 1980|10.4232/1.1000|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213127|Publication|URN|Eurobarometer 40 (1993)|Eurobarometer Nr. 40|10.4232/1.2459|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213127|Publication|URN|Eurobarometer 40 (1993)|Eurobarometer Nr. 40|10.4232/1.10908|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-214042|Publication|URN|Freiwilligensurvey 1999|Freiwilligensurveys 1999|10.4232/1.3350|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213613|Publication|URN|Eurobarometer 50.1 (1998)|Eurobarometer 50.1|10.4232/1.10828|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213613|Publication|URN|Eurobarometer 50.1 (1998)|Eurobarometer 50.1|10.4232/1.3086|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-269698|Publication|URN|International Social Survey Programme: Social Relations and Support Systems / Social Networks II - ISSP 2001|ISSP 2001|10.4232/1.3680|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-266904|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 1985-2008|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-266904|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 1985-2008|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-266904|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1985-2008|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-266904|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1985-2008|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-266904|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1985-2008|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-266904|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 1985-2008|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-266904|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1985-2008|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213511|Publication|URN|International Social Justice Project 1996 und 2000 (ISJP 1996 und 2000) - Deutschland|ISJP 2000|10.4232/1.4409|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213296|Publication|URN|Wohlfahrtssurvey 1993|Wohlfahrtssurvey 1993|10.4232/1.2792|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213326|Publication|URN|Wohlfahrtssurvey 1998|Wohlfahrtssurvey 1998|10.4232/1.3398|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213550|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1988|Allbus 1988|10.4232/1.1670|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-285862|Publication|URN|Jugend 2010|Jugend 2010|10.4232/1.11071|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-282477|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010|Allbus 1980-98|10.4232/1.11379|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-282477|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2008|Allbus 1980-98|10.4232/1.10080|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-282477|Publication|URN|German General Social Survey - ALLBUS - Cumulation 1980-2006|Allbus 1980-98|10.4232/1.4243|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-282477|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2006|Allbus 1980-98|10.4232/1.4241|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-282477|Publication|URN|German General Social Survey - ALLBUS - Cumulation 1980-2008|Allbus 1980-98|10.4232/1.11000|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-282477|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010|Allbus 1980-98|10.4232/1.11486|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-284481|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 1995-2006|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-284481|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 1995-2006|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-284481|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1995-2006|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-284481|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1995-2006|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-284481|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1995-2006|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-284481|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 1995-2006|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-284481|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 1995-2006|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-284481|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1995-2006|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-284481|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 2006|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-284481|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 2006|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-284481|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2006|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-284481|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2006|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-284481|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2006|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-284481|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2006|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-284481|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 2006|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-284481|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 2006|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-291241|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|Sozio-ökonomisches Panel 1994|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-291241|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|Sozio-ökonomisches Panel 1994|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-291241|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio-ökonomisches Panel 1994|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-291241|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio-ökonomisches Panel 1994|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-291241|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio-ökonomisches Panel 1994|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-291241|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|Sozio-ökonomisches Panel 1994|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-291241|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|Sozio-ökonomisches Panel 1994|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-291241|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio-ökonomisches Panel 1994|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-281703|Publication|URN|Eurobarometer 65.2 (2006)|Eurobarometer 65|10.4232/1.10974|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-281703|Publication|URN|Eurobarometer 65.2 (2006)|Eurobarometer 65|10.4232/1.4506|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-281703|Publication|URN|Eurobarometer 65.4 (2006)|Eurobarometer 65|10.4232/1.10064|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-281703|Publication|URN|Eurobarometer 65.4 (2006)|Eurobarometer 65|10.4232/1.10979|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-281703|Publication|URN|Eurobarometer 65.1 (2006)|Eurobarometer 65|10.4232/1.10973|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-281703|Publication|URN|Eurobarometer 65.3 (2006)|Eurobarometer 65|10.4232/1.10975|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-281703|Publication|URN|Eurobarometer 65.3 (2006)|Eurobarometer 65|10.4232/1.4507|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-281703|Publication|URN|Eurobarometer 65.1 (2006)|Eurobarometer 65|10.4232/1.4505|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-291241|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|Sozio-oekonomisches Panel 1994|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-291241|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|Sozio-oekonomisches Panel 1994|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-291241|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio-oekonomisches Panel 1994|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-291241|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio-oekonomisches Panel 1994|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-291241|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio-oekonomisches Panel 1994|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-291241|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio-oekonomisches Panel 1994|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-291241|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|Sozio-oekonomisches Panel 1994|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-291241|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|Sozio-oekonomisches Panel 1994|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-282547|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1998|ALLBUS 1998|10.4232/1.3000|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-282547|Publication|URN|German General Social Survey - ALLBUS 1998|ALLBUS 1998|10.4232/1.3753|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-282547|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1998|ALLBUS 1998|10.4232/1.11362|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-154812|Publication|URN|Eurobarometer 46.0 (1996)|Eurobarometer 46.0|10.4232/1.10923|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-154812|Publication|URN|Eurobarometer 46.0 (1996)|Eurobarometer 46.0|10.4232/1.2898|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-152501|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2000 (Integrierte Version)|ALLBUS 2000|10.4232/1.11365|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-152501|Publication|URN|Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2000 (Integrierte Version)|ALLBUS 2000|10.4232/1.3450|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-142235|Publication|URN|Wohlfahrtssurvey 1998|Wohlfahrtssurvey 1998|10.4232/1.3398|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-145256|Publication|URN|European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)|EVS 2003|10.4232/1.4804|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-145256|Publication|URN|European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)|EVS 2003|10.4232/1.11005|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-152498|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 2002–2005|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-152498|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 2002–2005|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-152498|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2002–2005|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-152498|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2002–2005|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-152498|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2002–2005|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-152498|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 2002–2005|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-152498|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 2002–2005|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-152498|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2002–2005|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-152994|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 1984-2004|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-152994|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 1984-2004|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-152994|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1984-2004|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-152994|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1984-2004|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-152994|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1984-2004|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-152994|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 1984-2004|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-152994|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 1984-2004|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-152994|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1984-2004|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-154850|Publication|URN|Eurobarometer 44.3 (1996)|Eurobarometer 44.3|10.4232/1.10920|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-154850|Publication|URN|Eurobarometer 44.3 (1996)|Eurobarometer 44.3|10.4232/1.2829|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151906|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|Sozio-ökonomisches Panel 2004|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151906|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|Sozio-ökonomisches Panel 2004|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151906|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio-ökonomisches Panel 2004|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151906|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio-ökonomisches Panel 2004|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151906|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio-ökonomisches Panel 2004|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151906|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|Sozio-ökonomisches Panel 2004|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151906|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|Sozio-ökonomisches Panel 2004|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151906|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio-ökonomisches Panel 2004|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-144609|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 1991–2002|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-144609|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 1991–2002|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-144609|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1991–2002|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-144609|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1991–2002|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-144609|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1991–2002|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-144609|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1991–2002|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-144609|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 1991–2002|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-144609|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 1991–2002|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-145256|Publication|URN|European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)|EVS 1993|10.4232/1.4804|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-145256|Publication|URN|European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)|EVS 1993|10.4232/1.11005|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-155299|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 2005|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-155299|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 2005|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-155299|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2005|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-155299|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2005|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-155299|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2005|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-155299|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 2005|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-155299|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 2005|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-155299|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 2005|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-145256|Publication|URN|European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)|EVS 1983-2003|10.4232/1.4804|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-145256|Publication|URN|European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008)|EVS 1983-2003|10.4232/1.11005|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-153004|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 1984–2003|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-153004|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 1984–2003|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-153004|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1984–2003|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-153004|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1984–2003|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-153004|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1984–2003|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-153004|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1984–2003|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-153004|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 1984–2003|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-153004|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 1984–2003|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-142235|Publication|URN|Wohlfahrtssurvey 1993|Wohlfahrtssurvey 1993|10.4232/1.2792|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-152465|Publication|URN|International Social Survey Programme: Social Relations and Support Systems / Social Networks II - ISSP 2001|ISSP 2001|10.4232/1.3680|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-143677|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 1990|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-143677|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 1990|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-143677|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1990|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-143677|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1990|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-143677|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1990|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-143677|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1990|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-143677|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 1990|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-143677|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 1990|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-142235|Publication|URN|Wohlfahrtssurvey 1988|Wohlfahrtssurvey 1988|10.4232/1.1839|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-155673|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP 1985–2003|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-155673|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP 1985–2003|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-155673|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1985–2003|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-155673|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1985–2003|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-155673|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1985–2003|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-155673|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP 1985–2003|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-155673|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP 1985–2003|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-155673|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP 1985–2003|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-142509|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|SOEP Pretest 2004|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-142509|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|SOEP Pretest 2004|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-142509|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP Pretest 2004|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-142509|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP Pretest 2004|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-142509|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP Pretest 2004|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-142509|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|SOEP Pretest 2004|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-142509|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|SOEP Pretest 2004|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-142509|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|SOEP Pretest 2004|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151906|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2009|Sozio-ökonomisches Panel 1992–2004|10.5684/soep.v26|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151906|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2008|Sozio-ökonomisches Panel 1992–2004|10.5684/soep.v25|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151906|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio-ökonomisches Panel 1992–2004|10.5684/soep.v27.1|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151906|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio-ökonomisches Panel 1992–2004|10.5684/soep.v27.2|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151906|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio-ökonomisches Panel 1992–2004|10.5684/soep.v27.2i|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151906|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2011|Sozio-ökonomisches Panel 1992–2004|10.5684/soep.v28|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151906|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2007|Sozio-ökonomisches Panel 1992–2004|10.5684/soep.v24|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151906|Publication|URN|Sozio-oekonomisches Panel (SOEP), Daten der Jahre 1984-2010|Sozio-ökonomisches Panel 1992–2004|10.5684/soep.v27|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-142509|Publication|URN|Alters-Survey - Lebenszusammenhänge, Selbst- und Lebenskonzeptionen (Deutscher Alterssurvey, 1. Welle 1996)|Alters-Survey 1996|10.4232/1.3264|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-142235|Publication|URN|Eurobarometer 56.1 (2001)|Eurobarometer 56.1|10.4232/1.11378|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-142235|Publication|URN|Eurobarometer 56.1 (2001)|Eurobarometer 56.1|10.4232/1.3626|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151864|Publication|URN|Eurobarometer 57.2 (2002)|Eurobarometer 2002|10.4232/1.3640|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151864|Publication|URN|Eurobarometer 57.1 (2002)|Eurobarometer 2002|10.4232/1.10949|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151864|Publication|URN|Eurobarometer 58.1 (2002)|Eurobarometer 2002|10.4232/1.3693|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151864|Publication|URN|Eurobarometer 58.2 (2002)|Eurobarometer 2002|10.4232/1.10954|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151864|Publication|URN|Eurobarometer 57.1 (2002)|Eurobarometer 2002|10.4232/1.3639|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151864|Publication|URN|Eurobarometer 58.0 (2002)|Eurobarometer 2002|10.4232/1.3692|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151864|Publication|URN|Eurobarometer 56.3 (2002)|Eurobarometer 2002|10.4232/1.10947|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151864|Publication|URN|Eurobarometer 57.0 (2002)|Eurobarometer 2002|10.4232/1.3638|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151864|Publication|URN|Eurobarometer 58.1 (2002)|Eurobarometer 2002|10.4232/1.10953|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151864|Publication|URN|Eurobarometer 58.2 (2002)|Eurobarometer 2002|10.4232/1.3886|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151864|Publication|URN|Eurobarometer 56.3 (2002)|Eurobarometer 2002|10.4232/1.3635|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151864|Publication|URN|Eurobarometer 58.0 (2002)|Eurobarometer 2002|10.4232/1.10952|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151864|Publication|URN|Eurobarometer 57.2 (2002)|Eurobarometer 2002|10.4232/1.10950|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-151864|Publication|URN|Eurobarometer 57.0 (2002)|Eurobarometer 2002|10.4232/1.10948|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-144271|Publication|URN|IKG-Jugendpanel 2001-2005 (Integration, Interaktion sowie die Entwicklung von Feindbildern und Gewaltbereitschaft bei Jugendlichen)|IKG-Jugendpanel 2002|10.4232/1.4493|Study|DOI|0.7|LitStudy_automatic

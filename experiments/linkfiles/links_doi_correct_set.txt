@@ -1,0 +1,5 @@
+|urn:nbn:de:0168-ssoar-233369|Publication|URN|Eurobarometer 62|10.4232/1.4230|Study|DOI|0.8|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213829|Publication|URN|Eurobarometer 62.1|10.4232/1.4230|Study|DOI|0.8|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-213772|Publication|URN|Eurobarometer 62|10.4232/1.4230|Study|DOI|0.7|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-63055|Publication|URN|Eurobarometer 2004-2006|10.4232/1.4230|Study|DOI|0.8|LitStudy_automatic
+|urn:nbn:de:0168-ssoar-198504|Publication|URN|Eurobarometer 2004|10.4232/1.4230|Study|DOI|0.8|LitStudy_automatic
