@@ -19,6 +19,7 @@ dependencies {
 }
 mainClassName = "de.unima.ki.infolis.tagging.Tagging"
 run {
-    args System.getProperty("configFile"), System.getProperty("type"), System.getProperty("outFile")
+    if(project.hasProperty('args')){
+        args System.getProperty("configFile"), System.getProperty("type"), System.getProperty("outFile")
+    }
 }
-// vim: ft=groovy:
