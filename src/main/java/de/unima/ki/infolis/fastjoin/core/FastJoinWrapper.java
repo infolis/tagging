@@ -27,6 +27,7 @@ package de.unima.ki.infolis.fastjoin.core;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.HashMap;
+import java.util.logging.Logger;
 
 
 /**
@@ -42,6 +43,8 @@ public class FastJoinWrapper {
 		fjw.join("fastjoin/test/source.txt", "fastjoin/test/target.txt");
 	}
 	
+        private Logger log = Logger.getLogger(getClass().getName());
+        
 	/**
 	*  Constructs and returns a similarity based mapping between token from the thesaurus and token from the records.
 	*  
@@ -53,6 +56,7 @@ public class FastJoinWrapper {
 		HashMap<String,String> recordTokenToThesaurusToken = new HashMap<String, String>();
 		HashMap<String,Double> recordTokenToConfidence = new HashMap<String, Double>();
 		try {
+                        log.info("fast join started with: " +sourcePath + " --- " + targetPath);
 			String line;
 			Process p = Runtime.getRuntime().exec(Settings.FASTJOIN_EXE_WIN + " " + Settings.FASTJOIN_MEASURE + " " + Settings.FASTJOIN_DELTA + " " + Settings.FASTJOIN_TAU + " " + sourcePath + " " + targetPath + "");
 			BufferedReader bri = new BufferedReader(new InputStreamReader(p.getInputStream()));
@@ -61,7 +65,9 @@ public class FastJoinWrapper {
 			String sourceLabel = "";
 			String targetLabel = "";
 			double confidence = 0.0;
+                        log.info("fast join output:");
 			while ((line = bri.readLine()) != null) {
+                                log.info(line);
 				String[] fields = line.split(" ");
 				// *** type == 1 ***
 				if (type == 1) {
