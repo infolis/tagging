@@ -103,6 +103,7 @@ public class FastJoinWrapper {
 			p.waitFor();
 		}
 		catch (Exception err) {
+                        log.info(err.getMessage());
 			err.printStackTrace();
 		}
 		return recordTokenToThesaurusToken;
