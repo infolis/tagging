@@ -120,7 +120,6 @@ public class LinkIndexer implements Indexer {
 	}
 	
 
-	@Override
 	public HashMap<IflRecord, HashSet<ConceptWithScore>> getResults() {
 		return this.results;
 	}

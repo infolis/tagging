@@ -68,7 +68,6 @@ public class ConceptWithScore implements Comparable<ConceptWithScore> {
 	}
 	
 
-	@Override
 	public int compareTo(ConceptWithScore that) {
 		if (this.score > that.score) {
 			return -1;

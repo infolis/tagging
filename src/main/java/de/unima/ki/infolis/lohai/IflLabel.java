@@ -43,33 +43,27 @@ public class IflLabel implements Label {
 	}
 
 
-	@Override
 	public Concept getConcept() {
 		return concept;
 	}
 
-	@Override
 	public void setConcept(Concept concept) {
 		this.concept = concept;
 		
 	}
 
-	@Override
 	public Language getLanguage() {
 		return this.lang;
 	}
 
-	@Override
 	public void setLanguage(Language language) {
 		this.lang = language;
 	}
 
-	@Override
 	public String getText() {
 		return this.text;
 	}
 
-	@Override
 	public void setText(String text) {
 		this.text = text;
 	}
