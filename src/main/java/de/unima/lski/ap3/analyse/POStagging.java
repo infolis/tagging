@@ -28,19 +28,13 @@ public class POStagging {
 		return posDocSet;
 	}
 	
-	public POStagging(String dir){
+	public POStagging(String dir) throws IOException{
 		ReadInDocuments read = new ReadInDocuments(dir);
 		docList=new StudyDocumentSet();
 		docList.setStudyDocumentSet(read.getStudyDocumentSetObject().getStudyDocumentSet());
 		posDocSet =new POStaggedDocumentSet();
-		try {
-			taggerEN = new MaxentTagger("./tagger/english-left3words-distsim.tagger");
-			taggerDE = new MaxentTagger("./tagger/german-dewac.tagger");
-		} catch (IOException e) {
-			e.printStackTrace();
-		} catch (ClassNotFoundException e) {
-			e.printStackTrace();
-		}
+		//			taggerEN = new MaxentTagger("./tagger/english-left3words-distsim.tagger");
+        taggerDE = new MaxentTagger("./tagger/german-dewac.tagger");
 	}
 	
 	public void tagging(){

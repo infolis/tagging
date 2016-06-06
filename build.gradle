@@ -13,7 +13,7 @@ dependencies {
     compile 'com.ibm.icu:icu4j:3.4.4'
     compile 'org.slf4j:slf4j-api:1.5.8'
     compile 'org.knallgrau.utils:textcat:1.0.1'
-    compile 'edu.stanford.nlp:stanford-corenlp:1.2.0'
+    compile 'edu.stanford.nlp:stanford-corenlp:3.6.0'
     compile 'xerces:xercesImpl:2.7.1'
     compile 'stax:stax-api:1.0.1'
     compile 'org.codehaus.woodstox:wstx-asl:3.2.9'
