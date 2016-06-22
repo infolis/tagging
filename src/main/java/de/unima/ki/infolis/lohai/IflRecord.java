@@ -107,24 +107,20 @@ public class IflRecord implements Record {
 		return this.subjectHeadings;
 	}
 
-	@Override
 	public Long getId() {
 		// TODO Auto-generated method stub
 		return null;
 	}
 
-	@Override
 	public void setId(Long id) {
 		// TODO Auto-generated method stub
 		
 	}
 
-	@Override
 	public String getTitle() {
 		return this.title;
 	}
 
-	@Override
 	public void setTitle(String title) {
 		this.title = title.trim();
 	}
@@ -137,23 +133,19 @@ public class IflRecord implements Record {
 		this.terms = terms;
 	}
 
-	@Override
 	public String getAbstractText() {
 		return abstractText;
 	}
 
-	@Override
 	public void setAbstractText(String abstractText) {
 		this.abstractText = abstractText;
 		
 	}
 
-	@Override
 	public void addAnnotation(Annotation annotation) {
 		this.annotations.add(annotation);
 	}
 
-	@Override
 	public List<Annotation> getAnnotations(AnnotationSource annotationSource) {
 		return this.annotations;
 	} 

@@ -91,31 +91,26 @@ public class IflConcept implements Concept {
 
 	}
 
-	@Override
 	public void setId(Long id) {
 		this.id = id;
 	}
 
 	
-	@Override
 	public Long getId() {
 		return this.id;
 	}
 	
 	// *** LABEL STUFF ***
 
-	@Override
 	public List<Label> getPrefLabels() {
 		return prefLabels;
 	}
 
-	@Override
 	public List<Label> getAltLabels() {
 		return this.altLabels;
 	}
 	
 
-	@Override
 	@Deprecated
 	public Label getPrefLabel() {
 		if (preferredLangaue == null) {
@@ -129,7 +124,6 @@ public class IflConcept implements Concept {
 	}
 	
 	
-	@Override
 	public Label getPrefLabel(Language language) {
 		for (Label label : this.getPrefLabels()) {
 			if (label.getLanguage().getName().equals(language.getName())) {
@@ -150,13 +144,11 @@ public class IflConcept implements Concept {
 		return filteredLabels;
 	}
 
-	@Override
 	public List<Label> getAltLabels(Language language) {
 		return this.getFilteredLabels(language, this.getAltLabels());
 	}
 	
 	
-	@Override
 	public List<Label> getLabels() {
 		ArrayList<Label> unionLabels = new ArrayList<Label>();
 		unionLabels.addAll(this.prefLabels);
@@ -164,7 +156,6 @@ public class IflConcept implements Concept {
 		return unionLabels;
 	}
 
-	@Override
 	public List<Label> getLabels(Language language) {
 		List<Label> unionLabels = this.getLabels();
 		return this.getFilteredLabels(language, unionLabels);
@@ -174,26 +165,22 @@ public class IflConcept implements Concept {
 	// **** CONCEPT HIERARCHY ****
 
 
-	@Override
 	public List<Concept> getBroader() {
 		return this.broader;
 	}
 
 
 
-	@Override
 	public List<Concept> getNarrower() {
 		return this.narrower;
 	}
 
 
 	
-	@Override
 	public ConceptScheme getConceptScheme() {
 		return this.conceptScheme;
 	}
 
-	@Override
 	public void setConceptScheme(ConceptScheme conceptScheme) {
 		this.conceptScheme = conceptScheme;
 		

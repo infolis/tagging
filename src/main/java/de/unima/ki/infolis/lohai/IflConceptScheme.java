@@ -47,23 +47,19 @@ public class IflConceptScheme implements ConceptScheme {
 	}
 
 
-	@Override
 	public List<Concept> getConcepts() {
 		return this.concepts;
 	}
 
-	@Override
 	public String getUri() {
 		return this.uri;
 	}
 
-	@Override
 	public void setUri(String uri) {
 		this.uri = uri;
 	}
 
 
-	@Override
 	public boolean existsConcept(String uri) {
 		if (this.uriHashedConcepts.containsKey(uri)) {
 			return true;

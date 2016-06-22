@@ -52,7 +52,6 @@ public class IflRecordSet implements Iterable<IflRecord> {
 		return this.records.size();
 	}
 
-	@Override
 	public Iterator<IflRecord> iterator() {
 		// TODO Auto-generated method stub
 		return this.records.iterator();

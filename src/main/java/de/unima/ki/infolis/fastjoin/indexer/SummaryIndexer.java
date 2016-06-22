@@ -67,7 +67,6 @@ private HashMap<IflRecord, HashSet<ConceptWithScore>> results;
 	}
 
 
-	@Override
 	public HashMap<IflRecord, HashSet<ConceptWithScore>> getResults() {
 		return results;
 	}

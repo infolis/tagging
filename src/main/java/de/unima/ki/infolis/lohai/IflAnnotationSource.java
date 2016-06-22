@@ -45,58 +45,47 @@ public class IflAnnotationSource implements AnnotationSource {
 		this.conceptScheme = conceptScheme;
 	}
 
-	@Override
 	public Long getId() {
 		return this.id;
 	}
 
-	@Override
 	public void setId(Long id) {
 		this.id = id;
 
 	}
 
-	@Override
 	public String getName() {
 		return this.name;
 	}
 
-	@Override
 	public void setName(String name) {
 		this.name = name;
 	}
 
-	@Override
 	public String getDescription() {
 		return this.description;
 	}
 
-	@Override
 	public void setDescription(String description) {
 		this.description = description;
 	}
 
-	@Override
 	public ConceptScheme getConceptScheme() {
 		return this.conceptScheme;
 	}
 
-	@Override
 	public void setConceptScheme(ConceptScheme conceptScheme) {
 		this.conceptScheme = conceptScheme;
 	}
 
-	@Override
 	public List<Annotation> getAnnotations() {
 		return this.annotations;
 	}
 
-	@Override
 	public void setAnnotations(List<Annotation> annotations) {
 		this.annotations = annotations;
 	}
 
-	@Override
 	public int getSize() {
 		this.annotations.size();
 		return 0;

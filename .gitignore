@@ -2,3 +2,7 @@ build/
 .gradle
 *-token.txt
 /.nb-gradle/private/
+.classpath
+.project
+.settings
+/bin
